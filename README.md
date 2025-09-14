@@ -64,7 +64,7 @@ You can also easily copy the generated password with one click.
    ```
 
 Your app will be live at:  
-👉 **https://karanbhatt1.github.io/PasswordGenerator**
+👉 **https://karanbhatt1.github.io/Password_Generator**
 
 ---
 
