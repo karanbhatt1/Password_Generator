@@ -69,8 +69,7 @@ Your app will be live at:
 ---
 
 ## 📜 License
-This project is licensed under your chosen license.  
-*(Update this section as needed)*
+Not Licensed
 
 ---
 
